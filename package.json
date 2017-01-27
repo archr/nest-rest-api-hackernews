@@ -1,0 +1,22 @@
+{
+  "name": "nest-rest-api-hackernews",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/archr/nest-rest-api-hackernews.git"
+  },
+  "author": "Antonio Sandoval",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/archr/nest-rest-api-hackernews/issues"
+  },
+  "homepage": "https://github.com/archr/nest-rest-api-hackernews#readme",
+  "dependencies": {
+    "nest-rest-api": "^0.1.1"
+  }
+}
