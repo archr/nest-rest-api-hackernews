@@ -38,3 +38,6 @@ Get items
 ```sh
 curl http://localhost:3000/items
 ```
+
+---
+Thanks to [David Oliveros](https://github.com/d-oliveros) for create `nest`
